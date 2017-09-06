@@ -3,7 +3,7 @@
   <div class="hero-body">
     <div class="container">
       <h1 class="title">
-        我在测试自动更新
+        我在测试自动更新哈哈哈
       </h1>
       <h2 class="subtitle">
         Full Height subtitle

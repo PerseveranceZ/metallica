@@ -3,10 +3,10 @@
   <div class="hero-body">
     <div class="container">
       <h1 class="title">
-        我在测试自动更新哈哈哈
+        自动更新测试第二次
       </h1>
       <h2 class="subtitle">
-        Full Height subtitle
+        build(3)
       </h2>
     </div>
   </div>
